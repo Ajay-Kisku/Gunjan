@@ -9,7 +9,7 @@ Enter char for b : y
 Enter char for c : x
 
 
-zyx
+*zyx*
 
 Size of int : 4
 Size of long double : 12
