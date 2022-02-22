@@ -1,4 +1,4 @@
-d:\Programming\C\College\17-02-2022\Hostel Work>.\"this.exe"
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -15,7 +15,7 @@ Size of int : 4
 Size of long double : 12
 
 
-d:\Programming\C\College\17-02-2022\Hostel Work>.\"this.exe"
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -30,7 +30,7 @@ Size of int : 4
 Size of long double : 12
 
 
-d:\Programming\C\College\17-02-2022\Hostel Work>.\"this.exe"
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -45,9 +45,8 @@ Size of int : 4
 Size of long double : 12
 
 
-d:\Programming\C\College\17-02-2022\Hostel Work>cd /d "d:\Programming\C\College\17-02-2022\Hostel Work"
+====================================================================
 
-d:\Programming\C\College\17-02-2022\Hostel Work>.\"this.exe"
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -57,7 +56,7 @@ Enter char for b :
 Enter char for c :
 
 thi
-============================================================
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -67,7 +66,7 @@ Enter char for b : you
 Enter char for c :
 
 syo
-============================================================
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -77,14 +76,14 @@ Enter char for b : mohan
 Enter char for c :
 
 umo
-============================================================
+====================================================================
 
 
 Size of int : 4
 Size of long double : 12
 
 
-d:\Programming\C\College\17-02-2022\Hostel Work>.\"this.exe"
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa - 
 
@@ -94,7 +93,7 @@ Enter char for b :
 Enter char for c :
 
 thi
-============================================================
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -103,7 +102,7 @@ Enter char for b :
 Enter char for c :
 
 sis
-============================================================
+====================================================================
 
 Convert Character to ASCII Value and Vice Versa -
 
@@ -112,7 +111,7 @@ Enter char for b :
 Enter char for c :
 
 gre
-============================================================
+====================================================================
 
 
 Size of int : 4
